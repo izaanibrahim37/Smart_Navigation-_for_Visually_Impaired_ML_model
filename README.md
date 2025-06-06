@@ -38,7 +38,6 @@ This is a real-time Human Detection web application built with Python and Flask.
 ├── requirements.txt # Python dependencies
 ├── image.JPG # Sample image for testing
 ├── video.mp4 # Sample video for testing
-├── tempimag1.JPG # Temporary image (if used)
 ├── bootstrap.min.css # Dark-themed Bootstrap CSS
 ├── bootstrap.min.js # Bootstrap JavaScript bundle
 ├── bold-and-dark.js # Custom JS for UI polish
