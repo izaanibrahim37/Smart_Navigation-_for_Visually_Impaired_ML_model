@@ -32,6 +32,7 @@ This is a real-time Human Detection web application built with Python and Flask.
 
 ## Folder Structure
 
+```
 / (root)
 │
 ├── main.py # Core logic and Flask server
@@ -55,6 +56,7 @@ This is a real-time Human Detection web application built with Python and Flask.
 │ └── js/bootstrap.min.js
 └── js/
 └── bold-and-dark.js
+```
 
 ---
 
